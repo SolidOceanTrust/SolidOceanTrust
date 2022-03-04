@@ -1,5 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on understanding the systems around me and automating/simplifying where possible
+- 🌱 I’m currently learning golang and continue to learn PowerShell (even after 10+ years of using it everyday!)
 
+My [wiki](https://solidoceantrust.github.io) should be here, one day....
+
+👍 🤙
 <!--
 **SolidOceanTrust/SolidOceanTrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
